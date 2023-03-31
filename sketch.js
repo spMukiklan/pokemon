@@ -20,7 +20,7 @@ var pc;
 function preload()
 {
   kabutoImg=loadImage('kabu.png')
-  marchampImg=loadImage('machamp.png')
+  marchampImg=loadImage('Machamp.png')
   rinoImg=loadImage('rino.png')
   scizorImg=loadImage('scizor-f.png')
   forestbg=loadImage("forest.jpg")
